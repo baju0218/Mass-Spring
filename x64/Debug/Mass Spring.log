@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\백종운\Desktop\Mass Spring\Mass Spring\massSpring.h(18,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Particle' 왼쪽은 무시됩니다.
+C:\Users\백종운\Desktop\Mass Spring\Mass Spring\massSpring.h(26,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Spring' 왼쪽은 무시됩니다.
+C:\Users\백종운\Desktop\Mass Spring\Mass Spring\massSpring.h(31,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'ControlledParticle' 왼쪽은 무시됩니다.
+C:\Users\백종운\Desktop\Mass Spring\Mass Spring\massSpring.h(35,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'ControlledSpring' 왼쪽은 무시됩니다.
+C:\Users\백종운\Desktop\Mass Spring\Mass Spring\main.cpp(246,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\백종운\Desktop\Mass Spring\Mass Spring\main.cpp(249,26): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mass Spring.vcxproj -> C:\Users\백종운\Desktop\Mass Spring\x64\Debug\Mass Spring.exe
